@@ -27,7 +27,7 @@ Pod::Spec.new do |spec|
   spec.description  = <<-DESC
                    DESC
 
-  spec.homepage     = "https://git.nextop.cn/lijun/doc/SampleCodes/NTJSBridge"
+  spec.homepage     = "https://github.com/ljql2001/NTJSBridge"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -79,7 +79,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://git.nextop.cn/lijun/doc/SampleCodes/NTJSBridge.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/ljql2001/NTJSBridge.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
