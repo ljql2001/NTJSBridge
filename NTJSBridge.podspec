@@ -28,7 +28,6 @@ Pod::Spec.new do |spec|
                    DESC
 
   spec.homepage     = "https://github.com/ljql2001/NTJSBridge"
-  # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -38,8 +37,7 @@ Pod::Spec.new do |spec|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  spec.license      = "MIT (example)"
-  # spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  spec.license      = { :type => "MIT", :file => "LICENSE" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -52,10 +50,7 @@ Pod::Spec.new do |spec|
   #  profile URL.
   #
 
-  spec.author             = { "“LiJun”" => "lijun@nextop.cn" }
-  # Or just: spec.author    = "“LiJun”"
-  # spec.authors            = { "“LiJun”" => "lijun@nextop.cn" }
-  # spec.social_media_url   = "https://twitter.com/“LiJun”"
+  spec.author             = { "“Jay Lee”" => "ljql2001@163.com" }
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
