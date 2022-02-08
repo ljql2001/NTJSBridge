@@ -25,6 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
+Sourcing from DsBridge repo on github, and refine part of the codes.
                    DESC
 
   spec.homepage     = "https://github.com/ljql2001/NTJSBridge"
