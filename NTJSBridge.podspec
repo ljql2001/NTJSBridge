@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "NTJSBridge"
-  spec.version      = "0.9.0"
+  spec.version      = "0.9.1"
   spec.summary      = "NTJSBridge: Referencing to the DSBridge project on github.com"
 
   # This description is used to generate tags and improve search results.
